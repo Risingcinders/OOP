@@ -6,5 +6,13 @@ public class Humantest {
 		Human Ken = new Human();
 		Ken.attack(DJ);
 		DJ.printHealth();
+		
+		Wizard Harry = new Wizard();
+		Samurai Jack = new Samurai();
+		Samurai Phillip = new Samurai();
+		
+		Jack.howMany();
+		
+		
 	}
 }
