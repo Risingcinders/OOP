@@ -12,7 +12,7 @@ public class ProjectTest {
 		
 		Project Jelly = new Project("Jelly", "This is the most important part of the sandwich" );
 		System.out.println(Jelly.getName());
-				
+		
 	}
 
 }

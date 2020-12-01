@@ -37,7 +37,5 @@ public class Project {
 	public String elevatorPitch() {
 		return name + ": " + description;
 	}
-	
-	
 
 }
