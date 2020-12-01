@@ -1,4 +1,4 @@
-package OOP;
+package Zookeeper;
 
 public class Animal {
 	// Member Vars
